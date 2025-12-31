@@ -35,7 +35,7 @@ DevSec Shield is a unified, AI-powered Devsecops assistant designed to provide c
 Watch our comprehensive demo to see how DevSec Shield transforms security scanning with AI-powered analysis, interactive dashboards, and seamless CI/CD integration.
 
 <video width="800" controls>
-  <source src="https://github.com/user-attachments/assets/734f13ec-fd12-4afc-852a-930ebd2eb40c" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/61760b6b-8a43-422c-a178-efd84c745f6c" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
