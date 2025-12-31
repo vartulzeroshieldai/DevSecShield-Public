@@ -35,7 +35,7 @@ DevSec Shield is a unified, AI-powered Devsecops assistant designed to provide c
 Watch our comprehensive demo to see how DevSec Shield transforms security scanning with AI-powered analysis, interactive dashboards, and seamless CI/CD integration.
 
 <video width="800" controls>
-  <source src="https://github.com/user-attachments/assets/704c5335-ba29-4e25-946d-03971890b046" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/734f13ec-fd12-4afc-852a-930ebd2eb40c" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -106,7 +106,7 @@ DevSec Shield provides secure, isolated scanning environments for all repository
 
 <div align="center">
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/207323248/531169376-96d937ae-8c3d-4356-8878-0be75ca82a3c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T071134Z&X-Amz-Expires=300&X-Amz-Signature=f04bac2d31f8d6bde55cc4ddee0c549a5699e4f267995fd7f9207762fbab2f23&X-Amz-SignedHeaders=host" alt="Secure Repository Integration Architecture" width="600">
+<img src="https://github.com/user-attachments/assets/947dfae5-719f-4913-a45d-680ff0a6a80a" alt="Secure Repository Integration Architecture" width="600">
 
 </div>
 
@@ -390,7 +390,7 @@ Each LLM security benchmark scan is executed securely in a dedicated scan worker
 
 <div align="center">
 
-![LLM Security Benchmarking Architecture](https://github-production-user-asset-6210df.s3.amazonaws.com/207323248/531171238-a00bd488-e5d9-4323-8067-9b03930db263.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251231%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251231T072359Z&X-Amz-Expires=300&X-Amz-Signature=19e57d34118aab8ac3236fcadf67f09837179835ba2bd7b23da1e45f2a25bf47&X-Amz-SignedHeaders=host)
+![LLM Security Benchmarking Architecture](https://github.com/user-attachments/assets/4098281a-cdc8-4122-9047-b3f7ce090b66)
 
 </div>
 
