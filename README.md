@@ -4,7 +4,7 @@
 
 <img src="https://github.com/user-attachments/assets/50e90813-b077-46fc-b316-d3ca416ccc64" alt="DevSec Shield Logo" width="200" height="100">
 
-### _SAST, SCA, DAST, IAC SCan, MCP & LLM Scan, AI GuardRails Enhanced by Generative AI_
+### _SAST, SCA, DAST, IAC SCan, MCP & LLM Scan, AI Agents Discovery, AI GuardRails Enhanced by Generative AI_
 
 [![Sign Up](https://img.shields.io/badge/Sign%20Up-Get%20Started-brightgreen?style=for-the-badge&logo=shield)](https://devsecshield.zeroshield.ai/register)
 
